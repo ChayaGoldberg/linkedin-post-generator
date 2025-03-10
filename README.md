@@ -20,15 +20,15 @@ A Python-based web application that allows users to generate customized LinkedIn
 
 ## Navigate to the project directory:
 
-cd linkedin-post-generator
+   cd linkedin-post-generator
 
 ## Install the required dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ## Set your OpenAI API key. You can store it in your environment variables:
 
-export OPENAI_API_KEY="your-api-key-here"
+   export OPENAI_API_KEY="your-api-key-here"
 
 ## Run the app:
 
