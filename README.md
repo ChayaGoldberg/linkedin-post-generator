@@ -49,8 +49,3 @@ A Python-based web application that allows users to generate customized LinkedIn
     Streamlit
     OpenAI API (GPT-3.5)
     GitHub
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
